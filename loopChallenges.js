@@ -12,6 +12,11 @@ for(var i=100; i>=0; i--){
         console.log(i);
     }
 }
+//sequence 4, 2.5, 1, -0.5, -2, -3.5.//
+for(var i=4; i>-4; i-=1.5) {
+    console.log(i);
+}
+
 console.log("Sigma")
 //Sigma (1-100)
 var sum=0;
