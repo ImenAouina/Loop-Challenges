@@ -28,8 +28,5 @@ for(var i=1; i<=12; i++){
 }
 console.log(product);
 ////////////////
-console.log("equence 4, 2.5, 1, -0.5, -2, -3.5.")
-for(var i=4; i>=-3.5; i-1.5){
-     console.log(i);
-}
+
 
